@@ -1,0 +1,24 @@
+{
+  "name": "actioncable-js-client",
+  "authors": [
+    "Dodik Gaghan S <gaghan430@gmail.com>"
+  ],
+  "description": "Standalone javascript library for ActionCable of Ruby on Rails",
+  "main": "dist/actioncable-client.js",
+  "keywords": [
+    "actioncable",
+    "javascript",
+    "Ruby",
+    "on",
+    "Rails"
+  ],
+  "license": "MIT",
+  "homepage": "gaghan430/actioncable-js-client",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
